@@ -13,7 +13,7 @@ export default function App() {
     <div className="App">
       <h1>10/25/21 Assignment: Functions</h1>
       {createList("Mikkail", "Allen", "blue")}
-      {createList("Mikkail", "Allen", "red")}
+      {createList("Derek", "Pitman", "red")}
     </div>
   );
 }
